@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "employee_id": "213123",
+        "name": "lkjnasdlkfjlskadj",
+        "email": "asdasd@gamail.co",
+        "phone": "0192870124780",
+        "gender": "Laki-laki",
+        "address": "asdasdasd",
+        "join_date": "2222-02-22",
+        "department": "Creative",
+        "division": "Desain Grafis",
+        "status": "Tetap",
+        "asuransi": [
+            "BPJS Tenaga Kerja"
+        ],
+        "file_upload": "1752159102_ChatGPT_Image_May_26__2025__08_50_55_AM.png"
+    },
+    {
+        "id": 2,
+        "employee_id": "123123",
+        "name": "asdas",
+        "email": "asdasd@gamail.co",
+        "phone": "0192870124780",
+        "gender": "Perempuan",
+        "address": "asdasdasdasda",
+        "join_date": "2222-02-02",
+        "department": "HR",
+        "division": "Operasional",
+        "status": "Tetap",
+        "asuransi": [
+            "BPJS Tenaga Kerja"
+        ],
+        "file_upload": ""
+    }
+]

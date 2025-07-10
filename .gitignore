@@ -1,0 +1,21 @@
+# menggunakan file manajer paket (misalnya package.json).
+/node_modules
+/bower_components
+
+# Abaikan file log yang sering berubah dan tidak relevan untuk repositori.
+*.log
+
+# File konfigurasi dan metadata yang dibuat oleh editor kode.
+.vscode/
+
+# Biasanya, sebuah template (contoh) dari file ini disertakan dalam repo.
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore uploads folder
+/uploads/
+
+

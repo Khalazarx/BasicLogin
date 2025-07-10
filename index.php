@@ -26,7 +26,7 @@ if (!isset($_SESSION['username'])) {
         <a href="#Beranda">Beranda</a>
         <a href="#Produk">Produk</a>
         <a href="#Promo">Promo</a>
-        <a href="#About">Tentang Kami</a>
+        <a href="TaskFormEmployee.php">Tentang Kami</a>
         <button class="btn" style="padding: 10px 20px; margin: 0;"><a href="logout.php">Logout</a></button>
     </nav>
     <div class="container">

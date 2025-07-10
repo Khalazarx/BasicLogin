@@ -26,6 +26,7 @@
         height: 100vh; /* Full viewport height */
         margin: 0; /* Remove default margin */
         padding: 0; /* Remove default padding */
+        
     }
 
     li {
