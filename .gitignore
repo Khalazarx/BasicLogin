@@ -8,6 +8,11 @@
 # File konfigurasi dan metadata yang dibuat oleh editor kode.
 .vscode/
 
+# Log
+npm-debug.log*
+yarn-debug.log*
+
+
 # Biasanya, sebuah template (contoh) dari file ini disertakan dalam repo.
 .env
 .env.local
@@ -17,5 +22,7 @@
 
 # Ignore uploads folder
 /uploads/
+/dist
+/build
 
 
